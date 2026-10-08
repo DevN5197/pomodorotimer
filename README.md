@@ -1,8 +1,5 @@
-# pomodorotimer
-<br>
-This is a fun project I made to brush up my skills in python and to learn the tkinter library as well as be proud of a project that aims to help me solve my real world problem of focusing when doing intensive tasks like studying, coding etc. using pomodoro timers that are explained below 
-<br>
 # 🍅 Pomodoro Timer
+This is a fun project I made to brush up my skills in python and to learn the tkinter library as well as be proud of a project that aims to help me solve my real world problem of focusing when doing intensive tasks like studying, coding etc. using pomodoro timers that are explained below 
 
 A simple, lightweight **Pomodoro Timer desktop application** built with Python and Tkinter.
 
